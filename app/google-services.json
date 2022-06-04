@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153247461250",
+    "project_id": "mugsapp-48534",
+    "storage_bucket": "mugsapp-48534.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153247461250:android:52efc48b8aa09bc0e1a99b",
+        "android_client_info": {
+          "package_name": "com.example.mugsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153247461250-tlimfjlb51ttdnp0cbb1it01trkqlurd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANyipSmM_Xwj6HsOtGimAvrv2pL-kZFuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153247461250-tlimfjlb51ttdnp0cbb1it01trkqlurd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
